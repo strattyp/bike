@@ -1,0 +1,10 @@
+{
+    "status":200,
+    "data":{"timestamp":false,
+    "latitude":"66.5434870000",
+    "longitude":"25.8446699000",
+    "accuracy":10,
+    "lastseen_verbose":"Thursday 1st of January 1970"},
+    "timestamp":"2023-12-27 14:09:01",
+    "message":"Position found"
+}
